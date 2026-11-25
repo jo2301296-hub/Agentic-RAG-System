@@ -1,0 +1,61 @@
+employee_id,department,level,city,hire_year,monthly_salary_egp,open_leave_requests,performance_score
+E1001,Engineering,Manager,Mansoura,2024,75900,2,4.7
+E1002,Engineering,Mid,Mansoura,2019,39400,1,4.5
+E1003,Engineering,Junior,Alexandria,2019,28300,3,3.4
+E1004,Engineering,Senior,Mansoura,2023,54800,2,3.0
+E1005,Engineering,Mid,Mansoura,2021,37700,0,3.1
+E1006,Engineering,Mid,Mansoura,2019,37800,3,4.0
+E1007,Engineering,Senior,Mansoura,2017,51200,0,4.7
+E1008,Engineering,Mid,Alexandria,2022,37900,2,2.8
+E1009,Engineering,Junior,Cairo,2018,27200,1,4.9
+E1010,Engineering,Senior,Dubai,2018,48800,3,4.1
+E1011,Engineering,Mid,Alexandria,2016,36200,0,4.4
+E1012,Engineering,Senior,Alexandria,2022,51500,1,4.5
+E1013,Engineering,Mid,Alexandria,2020,35500,1,4.4
+E1014,Engineering,Mid,Dubai,2018,36700,0,4.7
+E1015,Sales,Manager,Dubai,2025,44700,3,4.5
+E1016,Sales,Mid,Cairo,2023,24100,1,4.0
+E1017,Sales,Mid,Dubai,2025,22900,0,3.9
+E1018,Sales,Mid,Dubai,2017,24600,0,3.2
+E1019,Sales,Mid,Cairo,2024,22500,3,3.9
+E1020,Sales,Senior,Alexandria,2020,32100,3,3.8
+E1021,Sales,Junior,Alexandria,2024,17300,2,4.7
+E1022,Sales,Mid,Alexandria,2022,25100,0,3.5
+E1023,Sales,Mid,Alexandria,2022,22600,0,3.1
+E1024,Sales,Mid,Alexandria,2021,25000,1,3.2
+E1025,Sales,Mid,Alexandria,2017,25600,3,4.6
+E1026,Sales,Mid,Alexandria,2018,25600,3,4.9
+E1027,Sales,Junior,Alexandria,2021,16900,2,2.8
+E1028,Sales,Mid,Dubai,2023,22400,0,3.5
+E1029,Sales,Mid,Cairo,2017,24000,1,4.8
+E1030,Sales,Senior,Mansoura,2016,30500,1,3.2
+E1031,Customer Support,Manager,Dubai,2020,29700,3,2.9
+E1032,Customer Support,Junior,Cairo,2020,12200,0,4.4
+E1033,Customer Support,Mid,Cairo,2020,16300,0,4.1
+E1034,Customer Support,Mid,Alexandria,2017,15500,2,4.6
+E1035,Customer Support,Junior,Dubai,2020,11100,1,2.7
+E1036,Customer Support,Mid,Alexandria,2020,17500,0,3.0
+E1037,Customer Support,Mid,Alexandria,2020,16800,3,3.8
+E1038,Customer Support,Mid,Cairo,2020,16000,0,2.6
+E1039,Customer Support,Mid,Alexandria,2023,16500,0,4.1
+E1040,Customer Support,Junior,Dubai,2024,12100,2,4.2
+E1041,Finance,Manager,Mansoura,2019,58800,1,3.5
+E1042,Finance,Mid,Alexandria,2016,31000,0,4.0
+E1043,Finance,Mid,Cairo,2017,28700,3,4.6
+E1044,Finance,Mid,Mansoura,2016,29400,3,3.0
+E1045,Finance,Mid,Mansoura,2021,28800,2,4.8
+E1046,Finance,Mid,Mansoura,2019,28000,2,3.0
+E1047,Human Resources,Manager,Cairo,2023,42700,2,3.8
+E1048,Human Resources,Mid,Cairo,2017,22200,2,4.5
+E1049,Human Resources,Mid,Cairo,2022,22700,0,3.3
+E1050,Human Resources,Mid,Alexandria,2025,21700,3,4.4
+E1051,Human Resources,Junior,Alexandria,2016,15700,3,4.3
+E1052,Logistics,Manager,Alexandria,2024,34700,0,4.5
+E1053,Logistics,Mid,Cairo,2018,16500,2,4.8
+E1054,Logistics,Junior,Cairo,2016,13200,1,3.7
+E1055,Logistics,Senior,Cairo,2024,23500,0,4.1
+E1056,Logistics,Senior,Dubai,2020,24400,0,4.5
+E1057,Logistics,Mid,Alexandria,2019,18100,3,3.7
+E1058,Logistics,Junior,Mansoura,2016,11900,1,2.8
+E1059,Logistics,Mid,Mansoura,2025,17100,1,2.6
+E1060,Logistics,Senior,Cairo,2019,23600,3,3.3

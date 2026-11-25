@@ -1,0 +1,161 @@
+year,quarter,region,product,category,units_sold,unit_price_egp,revenue_egp
+2024,Q1,Cairo,Lumo Phone X2,Smartphones,362,14500,5249000
+2024,Q1,Cairo,Lumo Tab 11,Tablets,160,11800,1888000
+2024,Q1,Cairo,Aria Buds Pro,Audio,878,2100,1843800
+2024,Q1,Cairo,Vista 55 TV,Televisions,134,18900,2532600
+2024,Q1,Cairo,Breeze Smart AC,Appliances,115,22500,2587500
+2024,Q1,Alexandria,Lumo Phone X2,Smartphones,225,14500,3262500
+2024,Q1,Alexandria,Lumo Tab 11,Tablets,98,11800,1156400
+2024,Q1,Alexandria,Aria Buds Pro,Audio,535,2100,1123500
+2024,Q1,Alexandria,Vista 55 TV,Televisions,82,18900,1549800
+2024,Q1,Alexandria,Breeze Smart AC,Appliances,70,22500,1575000
+2024,Q1,Delta,Lumo Phone X2,Smartphones,168,14500,2436000
+2024,Q1,Delta,Lumo Tab 11,Tablets,76,11800,896800
+2024,Q1,Delta,Aria Buds Pro,Audio,410,2100,861000
+2024,Q1,Delta,Vista 55 TV,Televisions,70,18900,1323000
+2024,Q1,Delta,Breeze Smart AC,Appliances,52,22500,1170000
+2024,Q1,Gulf Export,Lumo Phone X2,Smartphones,125,14500,1812500
+2024,Q1,Gulf Export,Lumo Tab 11,Tablets,59,11800,696200
+2024,Q1,Gulf Export,Aria Buds Pro,Audio,318,2100,667800
+2024,Q1,Gulf Export,Vista 55 TV,Televisions,50,18900,945000
+2024,Q1,Gulf Export,Breeze Smart AC,Appliances,40,22500,900000
+2024,Q2,Cairo,Lumo Phone X2,Smartphones,453,14500,6568500
+2024,Q2,Cairo,Lumo Tab 11,Tablets,183,11800,2159400
+2024,Q2,Cairo,Aria Buds Pro,Audio,1043,2100,2190300
+2024,Q2,Cairo,Vista 55 TV,Televisions,159,18900,3005100
+2024,Q2,Cairo,Breeze Smart AC,Appliances,127,22500,2857500
+2024,Q2,Alexandria,Lumo Phone X2,Smartphones,253,14500,3668500
+2024,Q2,Alexandria,Lumo Tab 11,Tablets,117,11800,1380600
+2024,Q2,Alexandria,Aria Buds Pro,Audio,643,2100,1350300
+2024,Q2,Alexandria,Vista 55 TV,Televisions,97,18900,1833300
+2024,Q2,Alexandria,Breeze Smart AC,Appliances,83,22500,1867500
+2024,Q2,Delta,Lumo Phone X2,Smartphones,209,14500,3030500
+2024,Q2,Delta,Lumo Tab 11,Tablets,92,11800,1085600
+2024,Q2,Delta,Aria Buds Pro,Audio,483,2100,1014300
+2024,Q2,Delta,Vista 55 TV,Televisions,74,18900,1398600
+2024,Q2,Delta,Breeze Smart AC,Appliances,60,22500,1350000
+2024,Q2,Gulf Export,Lumo Phone X2,Smartphones,145,14500,2102500
+2024,Q2,Gulf Export,Lumo Tab 11,Tablets,69,11800,814200
+2024,Q2,Gulf Export,Aria Buds Pro,Audio,347,2100,728700
+2024,Q2,Gulf Export,Vista 55 TV,Televisions,56,18900,1058400
+2024,Q2,Gulf Export,Breeze Smart AC,Appliances,47,22500,1057500
+2024,Q3,Cairo,Lumo Phone X2,Smartphones,443,14500,6423500
+2024,Q3,Cairo,Lumo Tab 11,Tablets,197,11800,2324600
+2024,Q3,Cairo,Aria Buds Pro,Audio,1075,2100,2257500
+2024,Q3,Cairo,Vista 55 TV,Televisions,174,18900,3288600
+2024,Q3,Cairo,Breeze Smart AC,Appliances,134,22500,3015000
+2024,Q3,Alexandria,Lumo Phone X2,Smartphones,278,14500,4031000
+2024,Q3,Alexandria,Lumo Tab 11,Tablets,125,11800,1475000
+2024,Q3,Alexandria,Aria Buds Pro,Audio,673,2100,1413300
+2024,Q3,Alexandria,Vista 55 TV,Televisions,108,18900,2041200
+2024,Q3,Alexandria,Breeze Smart AC,Appliances,83,22500,1867500
+2024,Q3,Delta,Lumo Phone X2,Smartphones,226,14500,3277000
+2024,Q3,Delta,Lumo Tab 11,Tablets,92,11800,1085600
+2024,Q3,Delta,Aria Buds Pro,Audio,494,2100,1037400
+2024,Q3,Delta,Vista 55 TV,Televisions,84,18900,1587600
+2024,Q3,Delta,Breeze Smart AC,Appliances,63,22500,1417500
+2024,Q3,Gulf Export,Lumo Phone X2,Smartphones,156,14500,2262000
+2024,Q3,Gulf Export,Lumo Tab 11,Tablets,67,11800,790600
+2024,Q3,Gulf Export,Aria Buds Pro,Audio,371,2100,779100
+2024,Q3,Gulf Export,Vista 55 TV,Televisions,61,18900,1152900
+2024,Q3,Gulf Export,Breeze Smart AC,Appliances,49,22500,1102500
+2024,Q4,Cairo,Lumo Phone X2,Smartphones,518,14500,7511000
+2024,Q4,Cairo,Lumo Tab 11,Tablets,219,11800,2584200
+2024,Q4,Cairo,Aria Buds Pro,Audio,1184,2100,2486400
+2024,Q4,Cairo,Vista 55 TV,Televisions,191,18900,3609900
+2024,Q4,Cairo,Breeze Smart AC,Appliances,155,22500,3487500
+2024,Q4,Alexandria,Lumo Phone X2,Smartphones,306,14500,4437000
+2024,Q4,Alexandria,Lumo Tab 11,Tablets,145,11800,1711000
+2024,Q4,Alexandria,Aria Buds Pro,Audio,755,2100,1585500
+2024,Q4,Alexandria,Vista 55 TV,Televisions,117,18900,2211300
+2024,Q4,Alexandria,Breeze Smart AC,Appliances,97,22500,2182500
+2024,Q4,Delta,Lumo Phone X2,Smartphones,225,14500,3262500
+2024,Q4,Delta,Lumo Tab 11,Tablets,110,11800,1298000
+2024,Q4,Delta,Aria Buds Pro,Audio,565,2100,1186500
+2024,Q4,Delta,Vista 55 TV,Televisions,96,18900,1814400
+2024,Q4,Delta,Breeze Smart AC,Appliances,76,22500,1710000
+2024,Q4,Gulf Export,Lumo Phone X2,Smartphones,169,14500,2450500
+2024,Q4,Gulf Export,Lumo Tab 11,Tablets,77,11800,908600
+2024,Q4,Gulf Export,Aria Buds Pro,Audio,413,2100,867300
+2024,Q4,Gulf Export,Vista 55 TV,Televisions,62,18900,1171800
+2024,Q4,Gulf Export,Breeze Smart AC,Appliances,53,22500,1192500
+2025,Q1,Cairo,Lumo Phone X2,Smartphones,369,16200,5977800
+2025,Q1,Cairo,Lumo Tab 11,Tablets,145,12400,1798000
+2025,Q1,Cairo,Aria Buds Pro,Audio,996,2350,2340600
+2025,Q1,Cairo,Vista 55 TV,Televisions,158,19800,3128400
+2025,Q1,Cairo,Breeze Smart AC,Appliances,129,24900,3212100
+2025,Q1,Alexandria,Lumo Phone X2,Smartphones,243,16200,3936600
+2025,Q1,Alexandria,Lumo Tab 11,Tablets,98,12400,1215200
+2025,Q1,Alexandria,Aria Buds Pro,Audio,715,2350,1680250
+2025,Q1,Alexandria,Vista 55 TV,Televisions,95,19800,1881000
+2025,Q1,Alexandria,Breeze Smart AC,Appliances,87,24900,2166300
+2025,Q1,Delta,Lumo Phone X2,Smartphones,180,16200,2916000
+2025,Q1,Delta,Lumo Tab 11,Tablets,74,12400,917600
+2025,Q1,Delta,Aria Buds Pro,Audio,509,2350,1196150
+2025,Q1,Delta,Vista 55 TV,Televisions,75,19800,1485000
+2025,Q1,Delta,Breeze Smart AC,Appliances,61,24900,1518900
+2025,Q1,Gulf Export,Lumo Phone X2,Smartphones,193,16200,3126600
+2025,Q1,Gulf Export,Lumo Tab 11,Tablets,76,12400,942400
+2025,Q1,Gulf Export,Aria Buds Pro,Audio,559,2350,1313650
+2025,Q1,Gulf Export,Vista 55 TV,Televisions,82,19800,1623600
+2025,Q1,Gulf Export,Breeze Smart AC,Appliances,66,24900,1643400
+2025,Q2,Cairo,Lumo Phone X2,Smartphones,428,16200,6933600
+2025,Q2,Cairo,Lumo Tab 11,Tablets,171,12400,2120400
+2025,Q2,Cairo,Aria Buds Pro,Audio,1180,2350,2773000
+2025,Q2,Cairo,Vista 55 TV,Televisions,178,19800,3524400
+2025,Q2,Cairo,Breeze Smart AC,Appliances,158,24900,3934200
+2025,Q2,Alexandria,Lumo Phone X2,Smartphones,282,16200,4568400
+2025,Q2,Alexandria,Lumo Tab 11,Tablets,108,12400,1339200
+2025,Q2,Alexandria,Aria Buds Pro,Audio,786,2350,1847100
+2025,Q2,Alexandria,Vista 55 TV,Televisions,114,19800,2257200
+2025,Q2,Alexandria,Breeze Smart AC,Appliances,103,24900,2564700
+2025,Q2,Delta,Lumo Phone X2,Smartphones,219,16200,3547800
+2025,Q2,Delta,Lumo Tab 11,Tablets,84,12400,1041600
+2025,Q2,Delta,Aria Buds Pro,Audio,569,2350,1337150
+2025,Q2,Delta,Vista 55 TV,Televisions,84,19800,1663200
+2025,Q2,Delta,Breeze Smart AC,Appliances,74,24900,1842600
+2025,Q2,Gulf Export,Lumo Phone X2,Smartphones,214,16200,3466800
+2025,Q2,Gulf Export,Lumo Tab 11,Tablets,94,12400,1165600
+2025,Q2,Gulf Export,Aria Buds Pro,Audio,640,2350,1504000
+2025,Q2,Gulf Export,Vista 55 TV,Televisions,94,19800,1861200
+2025,Q2,Gulf Export,Breeze Smart AC,Appliances,82,24900,2041800
+2025,Q3,Cairo,Lumo Phone X2,Smartphones,457,16200,7403400
+2025,Q3,Cairo,Lumo Tab 11,Tablets,181,12400,2244400
+2025,Q3,Cairo,Aria Buds Pro,Audio,1207,2350,2836450
+2025,Q3,Cairo,Vista 55 TV,Televisions,188,19800,3722400
+2025,Q3,Cairo,Breeze Smart AC,Appliances,154,24900,3834600
+2025,Q3,Alexandria,Lumo Phone X2,Smartphones,286,16200,4633200
+2025,Q3,Alexandria,Lumo Tab 11,Tablets,115,12400,1426000
+2025,Q3,Alexandria,Aria Buds Pro,Audio,792,2350,1861200
+2025,Q3,Alexandria,Vista 55 TV,Televisions,118,19800,2336400
+2025,Q3,Alexandria,Breeze Smart AC,Appliances,100,24900,2490000
+2025,Q3,Delta,Lumo Phone X2,Smartphones,203,16200,3288600
+2025,Q3,Delta,Lumo Tab 11,Tablets,82,12400,1016800
+2025,Q3,Delta,Aria Buds Pro,Audio,562,2350,1320700
+2025,Q3,Delta,Vista 55 TV,Televisions,85,19800,1683000
+2025,Q3,Delta,Breeze Smart AC,Appliances,71,24900,1767900
+2025,Q3,Gulf Export,Lumo Phone X2,Smartphones,246,16200,3985200
+2025,Q3,Gulf Export,Lumo Tab 11,Tablets,94,12400,1165600
+2025,Q3,Gulf Export,Aria Buds Pro,Audio,616,2350,1447600
+2025,Q3,Gulf Export,Vista 55 TV,Televisions,91,19800,1801800
+2025,Q3,Gulf Export,Breeze Smart AC,Appliances,81,24900,2016900
+2025,Q4,Cairo,Lumo Phone X2,Smartphones,507,16200,8213400
+2025,Q4,Cairo,Lumo Tab 11,Tablets,195,12400,2418000
+2025,Q4,Cairo,Aria Buds Pro,Audio,1470,2350,3454500
+2025,Q4,Cairo,Vista 55 TV,Televisions,218,19800,4316400
+2025,Q4,Cairo,Breeze Smart AC,Appliances,180,24900,4482000
+2025,Q4,Alexandria,Lumo Phone X2,Smartphones,335,16200,5427000
+2025,Q4,Alexandria,Lumo Tab 11,Tablets,126,12400,1562400
+2025,Q4,Alexandria,Aria Buds Pro,Audio,875,2350,2056250
+2025,Q4,Alexandria,Vista 55 TV,Televisions,131,19800,2593800
+2025,Q4,Alexandria,Breeze Smart AC,Appliances,115,24900,2863500
+2025,Q4,Delta,Lumo Phone X2,Smartphones,249,16200,4033800
+2025,Q4,Delta,Lumo Tab 11,Tablets,91,12400,1128400
+2025,Q4,Delta,Aria Buds Pro,Audio,619,2350,1454650
+2025,Q4,Delta,Vista 55 TV,Televisions,101,19800,1999800
+2025,Q4,Delta,Breeze Smart AC,Appliances,85,24900,2116500
+2025,Q4,Gulf Export,Lumo Phone X2,Smartphones,250,16200,4050000
+2025,Q4,Gulf Export,Lumo Tab 11,Tablets,104,12400,1289600
+2025,Q4,Gulf Export,Aria Buds Pro,Audio,675,2350,1586250
+2025,Q4,Gulf Export,Vista 55 TV,Televisions,105,19800,2079000
+2025,Q4,Gulf Export,Breeze Smart AC,Appliances,97,24900,2415300
